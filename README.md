@@ -1,5 +1,3 @@
- Todo Application
-<----------------->
 Overview
   This Todo application allows users to manage their tasks efficiently. Users can sign up, log in, and perform the following operations on their tasks:
   Create new tasks.
